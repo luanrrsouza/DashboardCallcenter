@@ -1,1 +1,1 @@
-# DashboardCallcenter
+# DashboardCallcenterEsse projeto foi um DashBoard que eu construí para uma empresa de telefonia, onde os status dos operadores são consultados de um banco de dados e exibidos em um layout simples em tempo real.

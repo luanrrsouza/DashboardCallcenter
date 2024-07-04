@@ -1,4 +1,3 @@
-Olá, tudo bem?
+Hello, how are you?
 
-Esse projeto foi um DashBoard que eu construí para uma empresa de telefonia, onde os status dos operadores são consultados de um banco de dados e exibidos em um layout simples em tempo real.
-Podemos ver o tempo em que os operadores estão Online e para os operadores OffLine, podemos ver a hora em que encerrou o expediente.
+This project is a Dashboard I built for a telecommunications company, where the status of the operators is retrieved from a database and displayed in a simple layout in real-time. We can see the time operators are Online, and for Offline operators, we can see the time they ended their shift.
